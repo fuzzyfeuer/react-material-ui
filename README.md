@@ -1,4 +1,4 @@
-#  Application: @lrsenergy/react-app-example
+#  Application: @fuzzyfeuer/react-app-example
 
 A template/example app using:
 
